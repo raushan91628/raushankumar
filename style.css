@@ -1,0 +1,46 @@
+
+header h1 {
+    color:white;
+    background-color: #000;
+    text-align:center;
+    padding: 25px;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+
+img {
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    display:block;
+    margin:50px auto ;
+}
+
+footer h1 {
+    color: blue;
+    background-color: #000;
+    text-align: center;
+    padding: 15px;
+    font-size: 22px;
+    font-family: monospace;
+}
+
+#name {
+    text-decoration: underline;
+    
+   
+}
+body{
+    background-color:rgba(0, 68, 255, 0.304);
+}
+
+ header  h2{
+        color: rgb(0, 255, 30);
+        background-color: rgba(0, 0, 0, 0.303);
+       text-align: center;
+       padding: 20px;
+       font-size: 25px;
+       font-family:serif;
+        
+    }
