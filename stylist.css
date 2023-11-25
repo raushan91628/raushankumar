@@ -1,0 +1,78 @@
+header h1
+{
+    color:black;
+    background-color :blue;
+    padding: 25px;
+    font-size:40px;
+    text-align:center;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 500px;
+
+
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius:1000%;
+    display:grid;
+    margin:100px auto;
+    text-align: end;
+    background-color: aqua;
+    max-height: 5800px;
+    max-width: 35365px;
+    left: 200cm;
+    border-color: rgb(25, 24, 24);
+    border-style :dotted;
+    
+    
+    
+}
+h2{
+    color:aqua;
+    background-color:black;
+    text-align: center;
+    font-size: 50px;
+    padding:20px;
+}
+footer h1{
+    color:rgb(46, 42, 165);
+    background-color:blueviolet;
+    text-align: center;
+    padding:25px;
+    font-size:25px;
+    height: 50px;
+
+}
+botton 
+{
+    color:rgb(255, 0, 21);
+    background-color:aqua;
+    padding:5px;
+    text-align: end;
+    font-size: 50px;
+    
+   
+}
+footer p{
+    color:crimson;
+    background-color: chartreuse;
+    text-align:center;
+}  
+ form div{
+   
+    text-align:first ;
+    white-space:pre-line;
+}
+#bot
+{
+    text-align: center;
+    background-color: black;
+}
+body{
+    background-color:chartreuse ;
+}
+#botton
+{
+    background-color:fuchsia ;
+}
